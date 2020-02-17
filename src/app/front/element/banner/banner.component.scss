@@ -1,0 +1,24 @@
+.banner {
+  margin-top: 0px;
+  max-width: 100%;
+  height: 350px;
+  overflow: hidden;
+
+  .banner_img {
+    max-width: 100%;
+  }
+
+  .banner_title {
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+    font-weight: bold;
+    position: relative;
+    top: 30%;
+    left: 20%;
+  }
+
+  .banner_text {
+    position: relative;
+    top: 31%;
+    left: 21%;
+  }
+}
